@@ -5,6 +5,11 @@
 - <b>Azure Cloud Detection Lab for Mitre Att&ck
   - [Cloud Security with Microsoft Sentinel](https://github.com/dgivens1/ )
 
+- <b>AWS Cloud Detection Lab
+  - [Cloud Security](https://github.com/dgivens1/ )
+
+- <b>Kubernetes The Hard Way Lab
+  - [Building Kubernetes Cluster](https://github.com/dgivens1/ )
     
 
 <h2> 🤳🏾 Connect with me:</h2>
